@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\KINO\Kino\Kino\obj\Debug\Kino.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\KINO\Kino\Kino\obj\Debug\Kino.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\KINO\Kino\Kino\bin\Debug\Kino.exe.config
+C:\Users\Maria\Desktop\KINO\Kino\Kino\bin\Debug\Kino.exe
+C:\Users\Maria\Desktop\KINO\Kino\Kino\bin\Debug\Kino.pdb
+C:\Users\Maria\Desktop\KINO\Kino\Kino\obj\Debug\Kino.exe
+C:\Users\Maria\Desktop\KINO\Kino\Kino\obj\Debug\Kino.pdb
+C:\Users\Maria\Desktop\SGGW\5SEM\ArchOp\KINO\Kino\Kino\bin\Debug\Kino.exe.config
+C:\Users\Maria\Desktop\SGGW\5SEM\ArchOp\KINO\Kino\Kino\bin\Debug\Kino.exe
+C:\Users\Maria\Desktop\SGGW\5SEM\ArchOp\KINO\Kino\Kino\bin\Debug\Kino.pdb
+C:\Users\Maria\Desktop\SGGW\5SEM\ArchOp\KINO\Kino\Kino\obj\Debug\Kino.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\SGGW\5SEM\ArchOp\KINO\Kino\Kino\obj\Debug\Kino.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\SGGW\5SEM\ArchOp\KINO\Kino\Kino\obj\Debug\Kino.exe
+C:\Users\Maria\Desktop\SGGW\5SEM\ArchOp\KINO\Kino\Kino\obj\Debug\Kino.pdb
